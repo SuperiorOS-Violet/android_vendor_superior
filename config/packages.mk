@@ -37,8 +37,7 @@ PRODUCT_PACKAGES += \
     PixelThemesStub \
     Stk \
     Superiorwalls \
-    ViaBrowser \
-    WallpaperPickerGoogleRelease
+    ViaBrowser
 
 #Lawnchair
 ifeq ($(BUILD_WITH_LAWNCHAIR),true)
